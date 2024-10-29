@@ -5,4 +5,4 @@
 - How to reach me: 
 - St. Petersburg, Russia
 
-![alt text](i-1-1.webp)
+![i-1-1.webp](https://github.com/netology1507/Portfolio/raw/refs/heads/main/i.webp)
